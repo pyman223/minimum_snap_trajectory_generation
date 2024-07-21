@@ -1,3 +1,4 @@
+%%%%%%%%%%%%%%%%%%%%% aha??? %%%%%%%%%%%
 function demo2_minimum_snap_corridor()
 clear,clc;
 
